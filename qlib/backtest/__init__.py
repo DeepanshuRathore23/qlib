@@ -14,7 +14,9 @@ from .account import Account
 if TYPE_CHECKING:
     from ..strategy.base import BaseStrategy
     from .executor import BaseExecutor
-    from .decision import BaseTradeDecision
+    from .decision import 
+    asdasd
+    
 
 from ..config import C
 from ..log import get_module_logger
